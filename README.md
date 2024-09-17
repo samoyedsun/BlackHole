@@ -1,0 +1,2 @@
+# BlackHole
+public chat room
